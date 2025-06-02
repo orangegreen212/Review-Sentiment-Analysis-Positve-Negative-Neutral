@@ -47,11 +47,11 @@ The project follows these main steps:
 
 ## Results
 
-The model's performance is evaluated using metrics such as accuracy, precision, recall, F1-score, and ROC AUC. The classification report and confusion matrix provide detailed insights into its predictive capabilities for each sentiment class. After applying undersampling, the model shows improved recall for minority classes (Negative and Neutral), though with some trade-offs in precision or overall accuracy compared to a model trained on imbalanced data.
+The model's performance is evaluated using metrics such as accuracy, precision, recall, F1-score, and ROC AUC. 
+The classification report and confusion matrix provide detailed insights into its predictive capabilities for each sentiment class. 
+After applying undersampling, the model shows improved recall for minority classes (Negative and Neutral), though with some trade-offs in precision or overall accuracy compared to a model trained on imbalanced data.
 
-*(Optional: Briefly mention key ROC AUC scores or F1-scores if you want to highlight specific results, e.g., "Achieved a macro-averaged ROC AUC of X.XX after undersampling.")*
-
-## Future Work (Optional)
+## Future Work
 
 *   Experiment with different resampling techniques (e.g., SMOTE for oversampling).
 *   Try more advanced models
