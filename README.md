@@ -1,6 +1,6 @@
 # Sentiment Analysis of User Comments
 
-This project performs sentiment analysis on user comments to classify them as Positive, Negative, or Neutral. The primary goal is to build and evaluate a machine learning model capable of understanding the sentiment expressed in text data. Dataset was given from Kaggle, also it uploaded in /data folder
+This project performs sentiment analysis on user comments to classify them as Positive, Negative, or Neutral. The primary goal is to build and evaluate a machine learning model capable of understanding the sentiment expressed in text data. Dataset was given from Kaggle : https://www.kaggle.com/code/robikscube/sentiment-analysis-python-youtube-tutorial/input
 
 ## Project Overview
 
